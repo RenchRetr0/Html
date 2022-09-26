@@ -1,0 +1,25 @@
+.header{
+    padding-top: 50px;
+    padding-bottom: 60px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.content {
+    padding-top: 250px;
+    padding-bottom: 260px;
+    text-align: center;
+}
+
+.footer {
+    padding-top: 90px;
+    padding-bottom: 60px;
+    text-align: center;
+}
+
+hr {
+    border: none; /* Убираем границу */
+    background-color: red; /* Цвет линии */
+    color: red; /* Цвет линии для IE6-7 */
+    height: 2px; /* Толщина линии */
+}
