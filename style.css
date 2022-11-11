@@ -23,3 +23,9 @@ hr {
     color: red; /* Цвет линии для IE6-7 */
     height: 2px; /* Толщина линии */
 }
+
+.error {
+    text-align: center;
+    vertical-align: bottom;
+    margin-top: 300px;
+}
