@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /cafe-specials
+Disallow: /catering
+Disallow: /gift-cards
+Allow: index
+Allow: drink-menu
+Allow: food-menu
+
+Sitemap: http://sitemap.xml
