@@ -6,4 +6,4 @@ Allow: index
 Allow: drink-menu
 Allow: food-menu
 
-Sitemap: http://sitemap.xml
+Sitemap: sitemap.xls

@@ -27,5 +27,9 @@ hr {
 .error {
     text-align: center;
     vertical-align: bottom;
-    margin-top: 300px;
+}
+
+.point {
+    text-align: left;
+    margin-left: 500px;
 }
