@@ -6,4 +6,4 @@ Allow: index
 Allow: drink-menu
 Allow: food-menu
 
-Sitemap: https://renchretr0.github.io/sitemap.xls
+Sitemap: https://renchretr0.github.io/sitemap.xml
